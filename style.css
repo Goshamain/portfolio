@@ -1,0 +1,97 @@
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(rgb(84, 108, 239), rgb(51, 75, 215)); 
+    font-size: 30px;
+}
+.bob {
+    border:5px solid rgb(150, 16, 127) ;
+}
+.point:hover{
+    border:5px solid rgb(150, 16, 127);
+    padding: 9px;
+    margin: 5px 5px 25px 4px;
+    color: rgb(255, 255, 255)
+
+
+}
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient( rgb(157, 81, 204), rgb(134, 26, 212));
+}
+.link-header:hover { 
+    font-size: 25px;
+    color:rgb(255, 255, 255);
+    border: 1px solid rgb(65, 3, 103);
+    width: max-content;
+}
+.link-nav {
+    color:rgb(255, 255, 255);
+    border: 2.5px solid rgb(65, 3, 103);
+    width: max-content;
+
+}
+.link-nav:hover {
+    font-size: 25px;
+}
+p:hover { 
+    color:rgb(255, 255, 255);
+    font-size: 25px;
+    border: 5px solid rgb(65, 3, 103);
+    width: max-content;
+}
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(rgb(84, 108, 239), rgb(51, 75, 215)); 
+    font-size: 30px;
+}
+.bob {
+    border:5px solid rgb(150, 16, 127) ;
+}
+.point:hover{
+    border:5px solid rgb(150, 16, 127);
+    padding: 9px;
+    margin: 5px 5px 25px 4px;
+    color: rgb(255, 255, 255)
+
+
+}
+body {
+    font-family: sans-serif;
+    background-image:linear-gradient(rgb(84, 108, 239), rgb(51, 75, 215)); 
+    font-size: 30px;
+}
+.bob {
+    border:5px solid rgb(150, 16, 127) ;
+}
+.point:hover{
+    border:5px solid rgb(150, 16, 127);
+    padding: 9px;
+    margin: 5px 5px 25px 4px;
+    color: rgb(255, 255, 255)
+
+
+}
+.link-text:hover{
+    border:5px solid rgb(150, 16, 127);
+    padding: 9px;
+    margin: 5px 5px 25px 4px;
+    color: rgb(255, 255, 255)
+}
+p{
+    color:rgb(255, 255, 255);
+}
+li {
+    color:rgb(255, 255, 255);
+}
+.link-header {
+    border:5px solid rgb(150, 16, 127);
+    padding: 9px;
+    margin: 5px 5px 25px 4px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(150, 16, 127);
+    text-decoration: none;
+}
+    
+
+
+
